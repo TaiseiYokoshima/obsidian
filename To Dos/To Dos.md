@@ -1,6 +1,5 @@
-1. Relearn networkings
-2. take notes for classes
-3. do the labs
+
+1. do the labs
 4. read the paper
 5. come up with a project
 6. do the vpn programming
