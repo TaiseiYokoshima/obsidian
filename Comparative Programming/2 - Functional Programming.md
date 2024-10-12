@@ -7,7 +7,7 @@
 - Disadvantage: can be slower than imperative programs
 
 ### Properties 
-1. Unicity of normal forms:
+1. Unicity/ of normal forms:
 	In (pure) functional languages the value of an expression is uniquely determined by its components, and is independent of the order of reduction. Advantage: readability of programs. 
 2. Non-termination:
 	Not all reduction sequences lead to a value, some reduction sequences do not terminate
