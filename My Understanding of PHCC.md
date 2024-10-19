@@ -9,7 +9,9 @@ PHCC congestion algo, controls the packets in-flight (window) rather than the se
 
 It adjusts window based on the bottleneck link
 
-
+- is PHCC implemeneted at NIC hardware? or by the os?
+- Should I know the components of the NIC?
+- 
 
 
 
