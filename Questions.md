@@ -1,6 +1,6 @@
-1. In the interim report could I discuss the algorithms? or can I only talk about implementation and topics related to it such as potential problem
-2. When you say emulation how close should I emulate? or is it up to my decision? like down to hardware?
-3. if it is a software emulation, the performance will not be the same
+1. I have adjusted multiple link characteristics on the same link had no problems. What combination of characteristics had issues?
+2. I need help with compiling UDT - understanding makefiles and Cmake
+3. 
 
 Open VC
 
