@@ -14,13 +14,6 @@ This project seeks to explore the performance characteristics of emerging algori
 4. Investigate whether MiniNet can emulate HPCC and OrbTCP by examining its GitHub repository.
 5. If MiniNet proves unsuitable, identify alternative emulation platforms.
 6. Analyze the performance characteristics of the algorithms by running simulations or emulations.
-
-
-
-
-
-
-
 # Relevance
 One of the key aspects of this project is the research involved. Given that the topic is relatively new and not yet fully implemented, much of the available information will come from academic literature, which is often written for readers with substantial expertise in the field. Gaining experience in extracting valuable insights from these sources will be highly beneficial for my career, especially when exploring new topics and developing innovative solutions.
 

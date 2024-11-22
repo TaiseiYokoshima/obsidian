@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Project Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Project Proposal"
+            }
+          },
+          {
+            "id": "81baa2e86f9f1fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Proposal"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ed628e5236376eb",
@@ -247,24 +262,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2ab799a90ed3504",
+  "active": "81baa2e86f9f1fa8",
   "lastOpenFiles": [
-    "Wayland Rice.md",
-    "Questions.md",
+    "Notes on UDT Paper.md",
     "Project Proposal.md",
     "My Understanding of PHCC.md",
+    "General.md",
+    "To Dos/To Dos.md",
+    "2 - Good Design vs Bad Design.md",
+    "lab.md",
     "Untitled 1.md",
+    "Wayland Rice.md",
+    "Questions.md",
     "Project/Questions.md",
     "Project/Network Topology Design at 27,000 km ph.md",
     "Project/Data Transport for the Orbiting Internet (Notes).md",
     "Untitled",
     "Comparative Programming/2 - Functional Programming.md",
-    "2 - Good Design vs Bad Design.md",
     "Comparative Programming/1 - Introduction.md",
     "Computer Security/6 - Access Control.md",
     "Computer Security/5 - User Authentication.md",
-    "General.md",
-    "To Dos/To Dos.md",
     "Computer Security/1 - Introduction and Basic Concepts.md",
     "Human Computer Interaction/2 - Understanding and Conceptualizing  Interaction.md",
     "Human Computer Interaction/1 - Introduction.md",
