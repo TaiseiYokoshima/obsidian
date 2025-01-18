@@ -8,7 +8,7 @@
 
 
 neovim
-- folding
+- language specific folding and folding groups
 - color scheme
 - comparator
 - python lsp setup
@@ -19,3 +19,7 @@ neovim
 - transparent background color
 - highlight current line
 - open to where it was last opened
+- open with folds
+- separate configs into multiple
+- status line
+- cursor animation
