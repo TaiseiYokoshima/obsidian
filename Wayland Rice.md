@@ -23,3 +23,9 @@ neovim
 - separate configs into multiple
 - status line
 - cursor animation
+- buffer with telescope, to delete, or save buffer or discard
+- treesitter object like function, class, method
+- better lua snip (remove all defaults add my own)
+- better ui for completion
+- fix lua snippet
+- mini plugin
