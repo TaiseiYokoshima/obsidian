@@ -7,25 +7,15 @@
 7. add keybind to switch language
 
 
-neovim
+neovim - deffered
 - language specific folding and folding groups
-- color scheme
 - comparator
-- python lsp setup
-- snippets 
+- better lua snip (remove all defaults add my own
 - animated scrolling
-- comment keybind
-- list and close buffer
 - transparent background color
-- highlight current line
-- open to where it was last opened
-- open with folds
-- separate configs into multiple
 - status line
-- cursor animation
-- buffer with telescope, to delete, or save buffer or discard
-- treesitter object like function, class, method
-- better lua snip (remove all defaults add my own)
 - better ui for completion
-- fix lua snippet
-- mini plugin
+
+neovim
+- highlight current line
+- buffer with telescope, to delete, or save buffer or discard
