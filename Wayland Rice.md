@@ -19,3 +19,26 @@ neovim - deffered
 neovim
 - highlight current line
 - buffer with telescope, to delete, or save buffer or discard
+- lsp status
+- heirline
+
+
+herline:
+mode |  branch (+-~) |  diagnostic |  command | lsp |  position  | filetype   
+
+
+nvm-cmp:
+- better ui
+- no border
+- show scroll bar
+- black background
+- / and ; autocomplete 
+- hide completion in comments
+
+terminals to consider:
+- alacrity
+- wezterm
+- kitty
+- ghosty
+
+

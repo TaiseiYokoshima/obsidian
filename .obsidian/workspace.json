@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4906c365fc7a482a",
+        "id": "036ca982ac61c4fc",
         "type": "tabs",
         "children": [
           {
@@ -163,5 +163,7 @@
     }
   },
   "active": "de48a633c622525e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Wayland Rice.md"
+  ]
 }
