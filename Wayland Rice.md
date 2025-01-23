@@ -29,11 +29,12 @@ mode |  branch (+-~) |  diagnostic |  command | lsp |  position  | filetype
 
 nvm-cmp:
 - better ui
-- no border
-- show scroll bar
-- black background
-- / and ; autocomplete 
+- fix ui element colors
+- / and : autocomplete 
 - hide completion in comments
+- fix and make auto selection consistent
+- change border and scrollbar colors
+- fix fold state
 
 terminals to consider:
 - alacrity
