@@ -1,4 +1,4 @@
-1. Improve palm detection
+  1. Improve palm detection
 2. screen shot
 3. wofi
 4. waybar
@@ -24,10 +24,8 @@ neovim
 
 
 herline:
-mode |  branch (+-~) |  diagnostic |  command | lsp |  position  | filetype   
-
-
-filename mod | branch +-~ | diagnostic |               command |  lsp          \[ column:last line \]               
+change colors
+enable flex
 
 
 
