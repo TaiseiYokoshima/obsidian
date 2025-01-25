@@ -27,6 +27,10 @@ herline:
 mode |  branch (+-~) |  diagnostic |  command | lsp |  position  | filetype   
 
 
+filename mod | branch +-~ | diagnostic |               command |  lsp          \[ column:last line \]               
+
+
+
 nvm-cmp:
 - better ui
 - fix ui element colors
