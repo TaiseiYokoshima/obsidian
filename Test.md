@@ -1,11 +1,11 @@
 throughput = bytes received (receiving rate, includes protocol headers and re transmission)
 goodput = application data sent / over time, bytes received excluding protocol headers and retransmission
 
-1. test the binary on mininet make it work there
-2. figure out the sys call time to write or read from udt socket
-3. rewrite so it tests one direction at a time
-4. measure receiving rate instead of sending rate
-5. make tshark work
+1. figure out the sys call time to write or read from udt socket
+2. rewrite so it tests one direction at a time
+3. measure receiving rate instead of sending rate
+4. make tshark work
+5. start working on int
 
 
 better test:
