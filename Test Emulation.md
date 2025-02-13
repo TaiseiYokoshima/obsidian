@@ -11,5 +11,12 @@ throughput - wireshark (what level?)
 
 
 
+party number (server | client) | id (maps to timestamps ) | data
+
+
+
+
+
+
 
 
